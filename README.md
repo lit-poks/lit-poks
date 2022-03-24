@@ -93,17 +93,6 @@
  
 <br/>
 
-## Support ##
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/kuenzangc807" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="KC's Buy Me a Coffee"  width="250" height="60"/>    
- </a>
-</p>
-<p align="center">Buy me coffee </p>
-
-<br/>
-
 ## GitHub Stats ##
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lit-poks&style=flat-square@color=yellow" alt="Lalit's Profile Views" width="220" height="40"/> </p>
