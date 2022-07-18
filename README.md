@@ -1,7 +1,7 @@
 # Welcome To My GitHub Page #
 
 - 👋 Hi 
-- 💻 I'm a developer by profession, love psychology and philisophy. 
+- 💻 I'm a developer by profession, love psychology and philosophy. 
 - ✔️ Familiar with C, C++, Java, HTML, CSS, Ruby, Python, Dart
 - 🔗 Passionate about BE development and stellar consensus protocol/ BFA. 
 - 📫 You can reach me out in Instagram - [lit-poks](https://www.instagram.com/lit_poks/) Twitter - [@lit-poks](https://twitter.com/lit_poks) 
